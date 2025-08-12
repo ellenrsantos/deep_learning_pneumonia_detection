@@ -33,12 +33,17 @@ For this ML Model I used Teachable Machine, is a tool from Google. Teachable Mac
 
 # 📈 Results:
 
+
+- Accuracy per Class:
 <img width="462" height="180" alt="image" src="https://github.com/user-attachments/assets/50ba078f-43e6-4af2-b68d-f21e0f3f2f38" />
 
+- Confusion Matrix: 
 <img width="447" height="327" alt="image" src="https://github.com/user-attachments/assets/302ec693-12ea-494b-9a0b-82c9e0af5d71" />
 
+- Accuracy per Epoch:
 <img width="477" height="353" alt="image" src="https://github.com/user-attachments/assets/f8693dcb-e284-41ee-8524-f353b49c73fd" />
 
+- Loss per Epoch: 
 <img width="462" height="352" alt="image" src="https://github.com/user-attachments/assets/dab5e3a2-76c5-498a-a3c3-bd98fc67894d" />
 
 
